@@ -69,10 +69,12 @@ python manage.py runserver
 - Register a new user
 
 - Create and manage your blog posts
+  
+## 📬 Contributing
 
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-🙋‍♂️ Author
-Mohammad Katbeh
+# 🙋‍♂️ Mohammad Katbeh
 
 For inquiries or collaborations, feel free to connect!
 mohammadkatbeh9@gmail.com
